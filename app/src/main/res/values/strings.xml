@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">مثال 0002</string>
+    <string name="button">فتح واجهة انذار</string>
+    <string name="textview">نص من الواجهة الرئيسية</string>
+    <string name="ok">تم</string>
+    <string name="cancel">إلغاء الأمر</string>
+</resources>
